@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+}
+
+header div {
+    margin: 0px;
+    background-color: rgb(96, 6, 24);
+}
+
+header li {
+    font-size: 18px;
+    display: inline-block;
+    margin: 0px;
+    padding: 8px;
+    color: aliceblue;
+}
+
+header li:hover {
+    background-color: black;
+}
+
+body {
+    background-image: linear-gradient(90deg, rgb(230, 171, 171), rgb(243, 210, 149));
+    margin: 0%;
+}
+
+#div1 {
+    margin-left: 20px;
+}
+#div1 li{
+    list-style-type: decimal;
+
+}
+
+a {
+    font-size: 19px;
+    text-decoration: none;
+}
+
+#div2 img {
+    display: block;
+    width: 500px;
+    height: 400px;
+    margin: 20PX;
+    margin: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
+    border-style: solid;
+}
+
+#div2 p {
+    /*     margin-left:750px */
+    text-align: center;
+
+}
